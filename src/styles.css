@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+padding: 1rem;
+width: 80%
+}
+.showAllEmoji {
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+}
+.showAllEmoji span {
+padding-top: 10px;
+display: inline-block;
+}
+.container {
+background-color: beige;
+}
+.showMeaning {
+  
+margin-left: 0px;
+margin-right: 0;
+color: teal;
+padding: 10px;
+}
