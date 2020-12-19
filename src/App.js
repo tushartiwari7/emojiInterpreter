@@ -35,13 +35,6 @@ export default function App() {
     }
     setEmojiValue(meaning);
   }
-  // const [viewList, setViewList] = useState("");
-
-  // function showListHandler() {
-  //   wishList.map( function (item) {
-  //     console.log(item);
-  //   }
-  // }
 
   function listItemClickHandler(emoji) {
     var meaning = emojipedia[emoji];
@@ -86,5 +79,3 @@ export default function App() {
     </div>
   );
 }
-// VISER
-// view -> interpret -> state in event handler ->render
